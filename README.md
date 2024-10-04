@@ -15,7 +15,7 @@ This library processes heart rate data collected from professional athletes' spo
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/tretjakan/airow-task
    cd airow-task
    ```
 
